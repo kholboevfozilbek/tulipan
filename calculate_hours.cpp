@@ -41,7 +41,7 @@ int main()
     cout << "-----------------------------------\n";
     cout << "Total Hours:  " << sum << endl;
     outfile << "---------------------------------\n";
-    outfile << "Total Hours:  " << sum << endl;
+    outfile << "Total Hours:  " << sum << endl << endl;
 
     input_work_hours.close();
     outfile.close();
