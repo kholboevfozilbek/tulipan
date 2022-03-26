@@ -1,4 +1,9 @@
 4.5   07-march Mon from 17.00 to 21.30
 4.5   21-march Mon from 17.00 to 21.30
-5.5   22-march Tue from 17.00 to 21.30
-4.5   23-march Wed from 17.00 ro 21.30
+5.5   22-march Tue from 16.00 to 21.30
+4.5   23-march Wed from 17.00 to 21.30
+5.5   24-march Thu from 16.00 to 21.30
+7.5   25-march Fri from 14.00 to 21.30
+8.5   26-march Sat from 13.00 to 21.30
+
+
