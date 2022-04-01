@@ -5,9 +5,14 @@
 5.5   24-march Thu from 16.00 to 21.30
 7.5   25-march Fri from 14.00 to 21.30
 8.5   26-march Sat from 13.00 to 21.30
+4.5   28-march mon from 17.00 to 21.30
+5.5   29-march Tue from 16.00 to 21.30
+4.5   30-march Wed from 17.00 to 21.30
+6.5   31-march Thu from 15.00 to 21.30
+
 
 
 
 ---------------------------------
-Total Hours:  40.5
+Total Hours:  61.5
 
