@@ -1,8 +1,4 @@
-8.5   01-april Fri from 13.00 to 21.30
-8.5   02-april Sat from 13.00 to 21.30
-4.5   11-april Mon from 17.00 to 21.30
-
 
 ---------------------------------
-Total Hours:  21.5
+Total Hours:  0
 
