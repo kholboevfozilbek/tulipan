@@ -1,3 +1,5 @@
 6.5  02-May Mon     from 15.00 to 21.30
 7.5  14-May Sat     from 8.30  to 16.00
 5.5  16-May Mon     from 16.00 to 21.30
+5    23-May Mon     from 16.30 to 21.30
+5    25-May Wed     from 16.30 to 21.30
